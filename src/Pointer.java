@@ -1,5 +1,5 @@
 public class Pointer {
-    int number;
+    int number = 0;
 
 
 }
